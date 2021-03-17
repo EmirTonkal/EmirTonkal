@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cello97
+- 👋 Hi, I’m @emirtonkal
 - 👀 I’m interested in programming and dubbing 
 - 🌱 I’m currently learning everything for programming
 - 📫 How to reach me -> emirtonkal97@gmail.com
