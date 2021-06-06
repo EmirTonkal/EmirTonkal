@@ -37,7 +37,7 @@
 
 </div>
 
-<h3 align ="center"> 𝚖𝚢 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝 </h3>
+<h3 align ="center"> 𝚖𝚢 𝚒𝚗𝚝𝚎𝚛𝚎𝚜𝚝s </h3>
 
 <div align="center">
 
