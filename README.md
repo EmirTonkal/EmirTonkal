@@ -69,6 +69,6 @@
   </div>
   
    <div align="center">
- ![Microsoft SQL Server](https://img.shields.io/badge/C%23-545d68?style=badge&logo=Microsoft_SQL_Server&logoColor=white)
+ ![MSSQL](https://img.shields.io/badge/C%23-545d68?style=badge&logo=Microsoft_SQL_Server&logoColor=white)
 
   </div>
