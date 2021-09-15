@@ -70,6 +70,6 @@
   
    <div align="center">
  
-  ![Microsoft_SQL_Server](https://img.shields.io/badge/mssql-545d68?style=badge&logo=Microsoft_SQL_Server&logoColor=white)
+  ![Microsoft_SQL_Server](https://img.shields.io/badge/Microsoft_SQL_Server-545d68?style=badge&logo=Microsoft_SQL_Server&logoColor=white)
   
   </div>
