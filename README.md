@@ -50,7 +50,7 @@
 
 <div align="center">
   
-  ![Vue](https://img.shields.io/badge/-Vue-DD0031?style=flat&logo=vue.js&logoColor=white)
+  ![Vue](https://img.shields.io/badge/-Vue-DD0031?style=flat&logo=vue.js&logoColor='green')
   ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
   ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) 
