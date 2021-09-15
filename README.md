@@ -56,4 +56,12 @@
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
   ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=badge&logo=git&logoColor=white) 
- 
+  
+  
+   </div>
+
+  <div align="center">
+
+ ![NODE](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=node.js&logoColor=white)
+
+  </div>
