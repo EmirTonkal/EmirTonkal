@@ -64,6 +64,6 @@
 
  ![NODE](https://img.shields.io/badge/-Node-E34F26?style=flat&logo=node.js&logoColor=white)
  ![Java](https://img.shields.io/badge/-Java-20232A?style=flat&logo=java&logoColor=61DAFB) 
- ![c#](https://img.shields.io/badge/-c#-007ACC?style=flat&logo=c#&logoColor=white)
+ ![C#](https://img.shields.io/badge/-C#-007ACC?style=flat&logo=c-sharp&logoColor=white)
 
   </div>
