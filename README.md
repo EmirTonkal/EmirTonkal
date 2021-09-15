@@ -62,6 +62,6 @@
 
   <div align="center">
 
- ![NODE](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=node.js&logoColor=white)
+ ![NODE](https://img.shields.io/badge/-Node-E34F26?style=flat&logo=node.js&logoColor=white)
 
   </div>
