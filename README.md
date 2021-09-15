@@ -67,3 +67,8 @@
  ![C#](https://img.shields.io/badge/C%23-545d68?style=badge&logo=c-sharp&logoColor=white)
  ![.NET](https://img.shields.io/badge/-.NET-007ACC?style=flat&logo=.NET&logoColor=white)
   </div>
+  
+   <div align="center">
+ ![Microsoft SQL Server](https://img.shields.io/badge/C%23-545d68?style=badge&logo=Microsoft_SQL_Server&logoColor=white)
+
+  </div>
