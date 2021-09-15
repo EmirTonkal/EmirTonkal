@@ -53,6 +53,7 @@
   ![Vue](https://img.shields.io/badge/-Vue-DD0031?style=flat&logo=vue.js&logoColor='green')
   ![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react&logoColor=61DAFB) 
   ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
+  ![Vuetify](https://img.shields.io/badge/-Vuetify-563D7C?style=flat&logo=vuetify&logoColor=white)
   ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white)
   ![Git](https://img.shields.io/badge/Git-F05032?style=badge&logo=git&logoColor=white) 
  
