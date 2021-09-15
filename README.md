@@ -29,7 +29,7 @@
 
  <img height="150px"  src="https://github-readme-stats.vercel.app/api?username=EmirTonkal&show_icons=true&theme=dark">
 
- //<img height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmirTonkal&theme=dark&layout=compact">
+
 
 </div>
 
