@@ -7,7 +7,8 @@
 <div align = "center">
       <h4> 
 
- How to reach me: emirtonkal97@gmail.com <br> [Linkedln - @emirtonkal](https://www.linkedin.com/in/emir-tonkal-a63b0a168/)<br>[Instagram - @emirtonkal](https://instagram.com/emirtonkal)<br>[Twitter - @emirtonkal](https://twitter.com/emirtonkal)
+ How to reach me: emirtonkal97@gmail.com <br> [Linkedln - @emirtonkal](https://www.linkedin.com/in/emir-tonkal-a63b0a168/)<br>
+        
   </h4>
 </div>
 
