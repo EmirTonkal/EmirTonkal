@@ -14,7 +14,7 @@
 
 <div align = "center">
  <h4>
- I’m currently working on HRMS(human resource management system)
+ I’m currently working on Famametric(Construction Automation Project)
     </h4>
 </div>
 
